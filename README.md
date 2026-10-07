@@ -170,6 +170,7 @@ Version Control
 
 🏗️ Project Structure
 
+```text
 lifelens-ai/
 │
 ├── app/
@@ -190,7 +191,7 @@ lifelens-ai/
 ├── eslint.config.mjs
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 🚀 Getting Started
